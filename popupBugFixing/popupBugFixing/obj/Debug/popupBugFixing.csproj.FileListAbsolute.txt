@@ -1,0 +1,10 @@
+c:\users\rhosford\documents\visual studio 2015\Projects\popupBugFixing\popupBugFixing\bin\Debug\popupBugFixing.exe.config
+c:\users\rhosford\documents\visual studio 2015\Projects\popupBugFixing\popupBugFixing\bin\Debug\popupBugFixing.exe
+c:\users\rhosford\documents\visual studio 2015\Projects\popupBugFixing\popupBugFixing\bin\Debug\popupBugFixing.pdb
+c:\users\rhosford\documents\visual studio 2015\Projects\popupBugFixing\popupBugFixing\obj\Debug\popupBugFixing.Form1.resources
+c:\users\rhosford\documents\visual studio 2015\Projects\popupBugFixing\popupBugFixing\obj\Debug\popupBugFixing.promptForm.resources
+c:\users\rhosford\documents\visual studio 2015\Projects\popupBugFixing\popupBugFixing\obj\Debug\popupBugFixing.Properties.Resources.resources
+c:\users\rhosford\documents\visual studio 2015\Projects\popupBugFixing\popupBugFixing\obj\Debug\popupBugFixing.testUserControl.resources
+c:\users\rhosford\documents\visual studio 2015\Projects\popupBugFixing\popupBugFixing\obj\Debug\popupBugFixing.csproj.GenerateResource.Cache
+c:\users\rhosford\documents\visual studio 2015\Projects\popupBugFixing\popupBugFixing\obj\Debug\popupBugFixing.exe
+c:\users\rhosford\documents\visual studio 2015\Projects\popupBugFixing\popupBugFixing\obj\Debug\popupBugFixing.pdb
